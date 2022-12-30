@@ -448,7 +448,7 @@ p {
 # Hero
 --------------------------------------------------------------*/
 #hero {
-  background: url("../img/Llyod.jfif") repeat scroll center center/cover;
+  background: #474343;
   height: 100vh;
   width: 100%;
 }
