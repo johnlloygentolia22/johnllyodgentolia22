@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+John Lloyd Gentolia
+BSIT 3-3
 
-Template Name: Folio
-Template URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
